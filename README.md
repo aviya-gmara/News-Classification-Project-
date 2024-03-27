@@ -3,7 +3,7 @@
 ## Introduction
 This project analyzes the shift in media discourse following the Hamas attack on October 7, 2023. It examines the coverage by U.S. media outlets, especially the representation of hostages held in Gaza, to understand the informational landscape presented to the American public. Using unsupervised learning, we categorized articles into themes to explore American societal perceptions of the events compared to those in Israel.
 
-[Part_1- Clustering_Models_News_articles_after_Oct_7_part_1](https://github.com/aviya-gmara/News-Classification-Project-/blob/main/Clustering_Models_News_articles_after_Oct_7_part_1.ipynb)
+[Part_1- Clustering Models News articles after Oct 7](https://github.com/aviya-gmara/News-Classification-Project-/blob/main/Clustering_Models_News_articles_after_Oct_7_part_1.ipynb)
 
 [Part 2- Classification and Evaluation](https://github.com/aviya-gmara/News-Classification-Project-/blob/main/Classification_models_news_articles_part_2_Evaluation_.ipynb)
 
