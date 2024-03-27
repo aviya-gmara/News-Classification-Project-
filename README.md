@@ -14,6 +14,7 @@ Our methodology integrated:
 
 ## Results
 The clustering algorithms revealed insightful trends in topic coverage, with KMeans selected as the primary tool for its effectiveness in handling overlapping themes. A notable find was the sporadic coverage of the hostage topic, peaking only during key events.
+![image](https://github.com/aviya-gmara/News-Classification-Project-/assets/82819879/fe00c693-834b-47f9-86cc-fd710c22018d)
 
 ## Conclusion
 The project offers insights into the influence of news on public perception during war, highlighting how classification techniques can decode media focus and public interest.
